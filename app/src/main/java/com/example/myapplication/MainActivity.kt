@@ -36,6 +36,7 @@ fun steadyGene(gene: String): Int {
             val leftChar = gene[left]
             geneCount[leftChar] = geneCount[leftChar]!! + 1
             left++
+            //amnoop
         }
     }
 
